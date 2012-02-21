@@ -12,13 +12,10 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 
 body {
 /*background-image: url('img/20px-baseline.png');*/
-
 text-align: center;
 font-family: 'Special Elite', serif; 
-
 font-size: 16px; /* Set the base font size to 16px */
 line-height: 20px; /* Set line height for the page to 20px */
-
 }
 
 a {
@@ -30,24 +27,26 @@ max-width: 100%;
 }
 	
 h1 {
-font-size: 60px;
+font-size: 40px;
+padding-bottom: 40px;
+}
+
+h2 {
+font-size: 32px;
+padding-bottom: 40px;
+padding-top: 10px;
+}
+
+h3 {
+font-size: 32px;
 }
 
 div#front {
-padding-top: 200px;
-padding-bottom: 20px;
-font-size: 60px;
+padding-top: 20px;
 
 }
 
-ul  li{
-padding: 20px;
-}
 
-ul#navig {
-padding-top: 60px;
-font-size: 32px;
-}
 
 /* -----------------------------------------------------------------------------------------------------------------------------------------*/
 
@@ -55,3 +54,28 @@ font-size: 32px;
 
 
 @media screen and (min-width: 978px) {
+
+div#front {
+padding-top: 100px;
+
+}
+
+h1 {
+font-size: 60px;
+padding-bottom: 80px;
+}
+
+h2 {
+font-size: 40px;
+padding-bottom: 80px;
+
+}
+
+h3 {
+font-size: 32px;
+}
+
+
+
+
+}
