@@ -120,13 +120,13 @@ font-size: 32px;
 }
 
 div#sampleft {
-margin-left: 15%;
+margin-left: 25%;
 float: left;
 
 }
 
 div#sampright {
- margin-right: 15%;
+ margin-right: 25%;
 float: right;
 
 }

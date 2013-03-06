@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    
+    <meta charset="utf-8" />
+		
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    
+    <title>Ryan Perzynski | ryanperz.com</title>
+   
+    <link rel="stylesheet" type="text/css" media="screen" href="homepage/screen.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="homepage/print.css" />
+		<link rel="SHORTCUT ICON" href="homepage/fav.ico"/>
+    <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+		
+    
+  </head>
+  
+	<body>
+    <div id="front">  
+			<h1>ryanperz.com</h1>
+			<a href="http://www.ryanperz.com/wedding"><img src="/homepage/img/wedding.jpg">
+			<h2>ashley and ryan's wedding page</a></h2>
+			
+			<h3>more content soon</h3>
+    </div>		
+		
+	</body>
+	
+</html>
