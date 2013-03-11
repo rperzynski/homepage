@@ -21,10 +21,12 @@ padding-bottom: 100px;
 
 a {
 	text-decoration: none;
+	
 	}
 
 	img {
 max-width: 100%;
+border: 1px solid blue;
 }
 	
 h1 {
@@ -50,6 +52,8 @@ padding-bottom: 10px;
 
 h4 {
 font-size: 24px;
+padding-bottom: 10px;
+padding-top: 20px;
 }
 
 div#front {
@@ -57,40 +61,19 @@ padding-top: 20px;
 
 }
 
-ul#samples li {
-display: inline;
-
-}
-
-ul#types li {
-display: block;
-
-}
-
-div#sampleft {
 
 
-}
-
-div#sampright {
 
 
-}
-
-img {
-border: 1px solid black;
-}
 
 .contact {
 margin-top: 40px;
 padding-bottom: 20px;
-
 }
 
-div#contact {
-padding-top: 160px;
-float: static;
-}
+
+
+
 
 /* -----------------------------------------------------------------------------------------------------------------------------------------*/
 
@@ -119,15 +102,12 @@ h3 {
 font-size: 32px;
 }
 
-div#sampleft {
-margin-left: 15%;
-float: left;
-
+ul#samps li{
+display: inline;
 }
 
-div#sampright {
- margin-right: 15%;
-float: right;
+div#sampss {
+
 
 }
 
